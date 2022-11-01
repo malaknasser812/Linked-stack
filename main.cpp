@@ -2,6 +2,7 @@
 //linked stack (consists of nodes.. each node contain data and next*)
 #include <iostream>
 using namespace std;
+const int MAXSIZE =100;
 template <class T>
 
 class Stack{
