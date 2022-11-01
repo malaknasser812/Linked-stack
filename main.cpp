@@ -71,9 +71,17 @@ public:
         cout<<"]"<<endl;
     }
 };
+
+//some tests- please trace your code
 int main() {
-
-
-
+    int x;
+    stack <int> s;
+    s.push(100);
+    s.push(200);
+    s.push(300);
+    s.pop();
+    s.display();
+    s.gettop(x);
+    cout<<x<<endl;
     return 0;
 }
