@@ -1,3 +1,4 @@
+```
 //Stack implementation as a template (pointers based)
 //linked stack (consists of nodes.. each node contain data and next*)
 #include <iostream>
@@ -85,3 +86,4 @@ int main() {
     cout<<x<<endl;
     return 0;
 }
+```
