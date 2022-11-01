@@ -1,2 +1,3 @@
-# Linked-stack
+# By Malak Nasser
+## Linked-stack
 This is implementation of stack by using single linked lists
